@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Intellium Technologies	</title>
-	<atom:link href="https://intellium.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://intellium.io/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 03 Nov 2021 14:58:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

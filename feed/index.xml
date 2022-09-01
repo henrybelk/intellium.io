@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Intellium Technologies</title>
-	<atom:link href="https://intellium.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://intellium.io/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 03 Nov 2021 14:58:53 +0000</lastBuildDate>
 	<language>en-US</language>
